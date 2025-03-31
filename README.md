@@ -25,3 +25,4 @@
 - [LangFuse](https://langfuse.com/)
 - [OpenLIT](https://openlit.io/)
 - [OpenTelemetry for Generative AI](https://opentelemetry.io/blog/2024/otel-generative-ai/)
+- [MLFlow](https://mlflow.org/docs/latest/llms/)
