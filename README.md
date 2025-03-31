@@ -16,6 +16,7 @@
 
 - [AI Agentic Design Patterns with AutoGen](https://www.deeplearning.ai/short-courses/ai-agentic-design-patterns-with-autogen/) @ DeepLearning.AI
 - [Multi AI Agent Systems with crewAI](https://www.deeplearning.ai/short-courses/multi-ai-agent-systems-with-crewai/) @ DeepLearning.AI
+- [Practical Multi AI Agents and Advanced Use Cases with crewAI](https://www.deeplearning.ai/short-courses/practical-multi-ai-agents-and-advanced-use-cases-with-crewai/) @ DeepLearning.AI
 - [Agents Course](https://huggingface.co/learn/agents-course/unit2/langgraph/introduction) by HuggingFace 🤗
 - [Building Agentic RAG with LlamaIndex](https://www.deeplearning.ai/short-courses/building-agentic-rag-with-llamaindex/) @ DeepLearning.AI
 
