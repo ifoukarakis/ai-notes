@@ -30,4 +30,4 @@
 
 ## Papers
 
-- [ChatDev: Communicative Agents for Software Development](https://arxiv.org/abs/2307.07924) [[Source]](https://github.com/OpenBMB/ChatDev)
+- [ChatDev: Communicative Agents for Software Development](https://arxiv.org/abs/2307.07924) - [[Source]](https://github.com/OpenBMB/ChatDev)
