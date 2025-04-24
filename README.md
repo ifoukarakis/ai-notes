@@ -1,6 +1,6 @@
-# AI Agent Notes
+# AI Notes
 
-> A curated list of awesome things related to AI Agents.
+> A curated list of awesome things related to AI and more.
 
 
 ## Agent Frameworks
@@ -31,3 +31,7 @@
 ## Papers
 
 - [ChatDev: Communicative Agents for Software Development](https://arxiv.org/abs/2307.07924) - [[Source]](https://github.com/OpenBMB/ChatDev)
+
+## Other resources
+
+- [Text Splitter Visualizer](https://textsplittervisualizer.com/en) - Great resource for understanding how text splitters work.
