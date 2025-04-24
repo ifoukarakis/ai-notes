@@ -28,6 +28,7 @@
 - [LangFuse](https://langfuse.com/)
 - [OpenLIT](https://openlit.io/)
 - [OpenTelemetry for Generative AI](https://opentelemetry.io/blog/2024/otel-generative-ai/)
+- [Pydantic Evals](https://ai.pydantic.dev/evals/) - Framework for evaluating AI models and systems.
 - [MLFlow](https://mlflow.org/docs/latest/llms/)
 
 ## Papers
