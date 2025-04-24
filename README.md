@@ -5,6 +5,7 @@
 
 ## Agent Frameworks
 
+- [Agent Development Kit (ADK)](https://google.github.io/adk-docs/) - Google's framework for developing and deploying AI agents.
 - [Agno](https://www.agno.com/) (ex phidata) - Open-source library for creating advanced multimodal agents.
 - [Autogen](https://microsoft.github.io/autogen/stable//index.html) - A framework for building scalable multi-agent AI systems.
 - [CrewAI](https://www.crewai.com/) - Build AI agent teams that work together to tackle complex tasks
