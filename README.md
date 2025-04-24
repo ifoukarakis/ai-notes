@@ -10,6 +10,7 @@
 - [CrewAI](https://www.crewai.com/) - Build AI agent teams that work together to tackle complex tasks
 - [LangGraph](https://www.langchain.com/langgraph) - Enables agent orchestration — offering customizable architectures, long-term memory, and human-in-the-loop to reliably handle complex tasks.
 - [LlamaIndex](https://www.llamaindex.ai/) - Build AI Knowledge Assistants over your data.
+- [Pydantic AI Agents](https://ai.pydantic.dev/agents/) - Granular control over agent's input and output.
 - [Smolagents](https://smolagents.org/) - Rapid prototyping and lightweight tasks.
 
 ## Agent Courses
