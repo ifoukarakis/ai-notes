@@ -22,6 +22,11 @@
 - [Agents Course](https://huggingface.co/learn/agents-course/unit2/langgraph/introduction) by HuggingFace 🤗
 - [Building Agentic RAG with LlamaIndex](https://www.deeplearning.ai/short-courses/building-agentic-rag-with-llamaindex/) @ DeepLearning.AI
 
+## Model Context Protocol (MCP)
+
+- [Model Context Protocol](https://modelcontextprotocol.io/) introduction, specification, SDKs etc. 
+- [MCP Course](https://huggingface.co/learn/mcp-course/) by HuggingFace 🤗
+
 ## Observability & Evaluation
 
 - [ArizeAI](https://arize.com/)
