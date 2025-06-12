@@ -26,6 +26,7 @@
 
 - [Model Context Protocol](https://modelcontextprotocol.io/) introduction, specification, SDKs etc. 
 - [MCP Course](https://huggingface.co/learn/mcp-course/) by HuggingFace 🤗
+- [Model Context Protocol (MCP) Curriculum for Beginners](https://github.com/microsoft/mcp-for-beginners) by Microsoft
 
 ## Observability & Evaluation
 
