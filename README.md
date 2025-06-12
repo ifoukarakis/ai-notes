@@ -37,6 +37,7 @@
 - [Pydantic Evals](https://ai.pydantic.dev/evals/)
 - [Pydantic Logfire](https://pydantic.dev/logfire) 
 - [MLFlow](https://mlflow.org/docs/latest/llms/)
+- [OpenLLMetry](https://github.com/traceloop/openllmetry)
 
 ## Papers
 
