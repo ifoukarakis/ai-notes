@@ -43,6 +43,10 @@
 
 - [ChatDev: Communicative Agents for Software Development](https://arxiv.org/abs/2307.07924) - [[Source]](https://github.com/OpenBMB/ChatDev)
 
+## Retrieval-Augmented Generation (RAG)
+
+- [Design and develop a RAG solution](https://learn.microsoft.com/en-us/azure/architecture/ai-ml/guide/rag/rag-solution-design-and-evaluation-guide)
+
 ## Other resources
 
 - [Text Splitter Visualizer](https://textsplittervisualizer.com/en) - Great resource for understanding how text splitters work.
