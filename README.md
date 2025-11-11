@@ -42,6 +42,8 @@
 ## Papers
 
 - [ChatDev: Communicative Agents for Software Development](https://arxiv.org/abs/2307.07924) - [[Source]](https://github.com/OpenBMB/ChatDev)
+- [Evaluating Large Language Models Trained on Code](https://arxiv.org/abs/2107.03374) - discusses `pass@k`.
+- [τ-bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains](https://arxiv.org/abs/2406.12045) - introduces `pass^k`.
 
 ## Retrieval-Augmented Generation (RAG)
 
