@@ -22,6 +22,24 @@
 - [Agents Course](https://huggingface.co/learn/agents-course/unit2/langgraph/introduction) by HuggingFace 🤗
 - [Building Agentic RAG with LlamaIndex](https://www.deeplearning.ai/short-courses/building-agentic-rag-with-llamaindex/) @ DeepLearning.AI
 
+## Coding Assistants
+
+- [Aider](https://aider.chat/) - AI pair programming in your terminal, works with multiple LLMs
+- [Amazon CodeWhisperer](https://aws.amazon.com/codewhisperer/) - AWS's AI coding companion with security scanning built in
+- [Claude Code](https://www.anthropic.com/claude/code) - Command line tool for agentic coding tasks, allowing developers to delegate work to Claude
+- [Codeium](https://codeium.com/) - Free AI-powered code completion and chat assistant for individual developers
+- [Continue](https://continue.dev/) - Open-source autopilot for VS Code and JetBrains IDEs
+- [Cursor](https://cursor.sh/) - AI-first code editor with chat, inline editing, and codebase-aware assistance
+- [GitHub Copilot](https://github.com/features/copilot) - AI pair programmer powered by OpenAI Codex, integrated into VS Code, Visual Studio, and other IDEs
+- [Google Gemini Code Assist](https://cloud.google.com/gemini/docs/codeassist/overview) - Google's AI coding assistant for enterprise development
+- [JetBrains AI Assistant](https://www.jetbrains.com/ai/) - Built into JetBrains IDEs like IntelliJ IDEA and PyCharm
+- [OpenCode](https://opencode.ai/) - The AI coding agent built for the terminal
+- [Qwen Code](https://github.com/QwenLM/qwen-code) - Command-line AI workflow tool adapted from Gemini CLI, specifically optimized for Qwen3-Coder models
+- [Replit Ghostwriter](https://replit.com/ai) - AI assistant integrated into the Replit online IDE
+- [Sourcegraph Cody](https://sourcegraph.com/cody) - AI coding assistant with deep codebase understanding
+- [Tabnine](https://www.tabnine.com/) - AI code completion tool that works across multiple IDEs and supports team learning
+- [Windsurf](https://codeium.com/windsurf) - AI-powered IDE by Codeium with collaborative coding features
+
 ## Model Context Protocol (MCP)
 
 - [Model Context Protocol](https://modelcontextprotocol.io/) introduction, specification, SDKs etc. 
